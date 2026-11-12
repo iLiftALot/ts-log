@@ -1,0 +1,14 @@
+.env
+/node_modules
+/coverage
+/build
+.DS_Store
+*.pem
+*.tsbuildinfo
+logs
+*.log
+coverage
+*.lcov
+node_modules/
+dist
+.fallow
