@@ -3,7 +3,12 @@
     "version": "1.0.0",
     "description": "A TypeScript logging utility.",
     "keywords": [],
-    "license": "ISC",
+    "homepage": "https://github.com/iLiftALot/ts-log#README",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iLiftALot/ts-log.git"
+    },
+    "license": "MIT",
     "author": "Nicholas Corbin",
     "type": "commonjs",
     "main": "dist/index.js",

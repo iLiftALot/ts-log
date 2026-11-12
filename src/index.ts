@@ -33,7 +33,7 @@ export class Logger {
         compact: false,
         sorted: false,
         numericSeparator: true,
-        showProxy: !this.isProduction // Internal structure of Proxy-wrapped objects
+        showProxy: !this.isProduction
     };
 
     private readonly inspectOptions: InspectOptions;
