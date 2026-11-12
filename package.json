@@ -1,7 +1,7 @@
 {
     "name": "ts-log",
     "version": "1.0.0",
-    "description": "",
+    "description": "A TypeScript logging utility.",
     "keywords": [],
     "license": "ISC",
     "author": "Nicholas Corbin",
