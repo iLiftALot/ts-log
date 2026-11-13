@@ -75,7 +75,7 @@ function captureConsole<T>(callback: () => T): { result: T; calls: unknown[][] }
 }
 
 test("importing the logger singleton does not alter global inspection defaults", () => {
-    const modulePath = path.join(__dirname, `index${path.extname(__filename)}`);
+    const modulePath = path.resolve(__dirname, `../src/index.ts`);
     const script = [
         'const assert = require("node:assert/strict");',
         'const { inspect } = require("node:util");',
