@@ -1,6 +1,6 @@
 {
     "name": "@dev-md/ts-log",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A TypeScript logging utility.",
     "keywords": [],
     "homepage": "https://github.com/iLiftALot/ts-log#README",
